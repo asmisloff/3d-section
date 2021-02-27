@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 4.1.0.8000
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "t-matrix", "t-matrix.csproj", "{8FFC2A8B-AE23-411D-B4B0-0E42D4BB98AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FFC2A8B-AE23-411D-B4B0-0E42D4BB98AC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{8FFC2A8B-AE23-411D-B4B0-0E42D4BB98AC}.Debug|x86.ActiveCfg = Debug|x86
+		{8FFC2A8B-AE23-411D-B4B0-0E42D4BB98AC}.Debug|x86.Build.0 = Debug|x86
+		{8FFC2A8B-AE23-411D-B4B0-0E42D4BB98AC}.Release|Any CPU.ActiveCfg = Debug|x86
+		{8FFC2A8B-AE23-411D-B4B0-0E42D4BB98AC}.Release|x86.ActiveCfg = Release|x86
+		{8FFC2A8B-AE23-411D-B4B0-0E42D4BB98AC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

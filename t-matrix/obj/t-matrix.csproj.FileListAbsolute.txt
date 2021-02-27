@@ -1,0 +1,10 @@
+E:\Project\autocad-utils\t-matrix\bin\Debug\t-matrix.dll
+E:\Project\autocad-utils\t-matrix\bin\Debug\t-matrix.pdb
+E:\Project\autocad-utils\t-matrix\bin\Debug\AcDbMgd.dll
+E:\Project\autocad-utils\t-matrix\bin\Debug\AcMgd.dll
+E:\Project\autocad-utils\t-matrix\bin\Debug\AcCui.dll
+E:\Project\autocad-utils\t-matrix\bin\Debug\AcTcMgd.dll
+E:\Project\autocad-utils\t-matrix\bin\Debug\AdWindows.dll
+E:\Project\autocad-utils\t-matrix\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\autocad-utils\t-matrix\obj\x86\Debug\t-matrix.dll
+E:\Project\autocad-utils\t-matrix\obj\x86\Debug\t-matrix.pdb

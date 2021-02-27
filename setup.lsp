@@ -1,0 +1,6 @@
+(command "netload" "d:/Cloud.Mail.Ru/project/3d-section/t-matrix.dll")
+(vl-arx-import 'sbt:get-tmatrix)
+(install-package default-pack)
+(install-package 3d-solid-pack)
+(install-package block-ref-pack)
+(install-package xref-pack)
